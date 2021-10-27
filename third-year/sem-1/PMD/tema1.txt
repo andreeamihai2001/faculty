@@ -1,0 +1,5 @@
+Scrieți un program în limbajul de asamblare x86, care afișează pe ecran suma primelor N numere naturale, pentru un N pe 8 biți de valoare mică, hardcodat în program (declarat în secțiunea .data ca o variabilă sau o constantă).
+
+Fiecare student va incarca propria arhiva, care trebuie sa contina fisierul cu extensia .asm continand programul in asamblare, precum si cateva capturi de ecran care sa dovedeasca functionarea corecta a programului in emulatorul emu8086. Este necesara cel putin o captura de ecran care sa arate continutul registrului in care se afla rezultatul care se doreste a fi afisat (prin executie pas cu pas - "single step" in emu8086).
+
+
