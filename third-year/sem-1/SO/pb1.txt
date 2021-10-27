@@ -1,0 +1,11 @@
+Să se scrie un shell/bash script care primește 3 numere ca și argumente pe linie de comandă și afișeaza cel mai mare dintre ele.
+
+Script-ul se va apela sub forma:
+
+./script.sh <primul_nr> <al_doilea_nr> <al_treilea_nr>
+Exemplu:
+
+./script.sh 5 99 34
+va afișa: 99.
+
+Atenție! Să NU uitați să verificați dacă ați primit numărul corect de argumente!
